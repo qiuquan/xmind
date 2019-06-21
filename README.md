@@ -1,2 +1,2 @@
 # xmind
-storing xmind source file
+存储xmind源文件
